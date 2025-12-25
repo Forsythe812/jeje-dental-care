@@ -1,2 +1,2 @@
 # jeje-dental-care
-Website for Jeje Dental Care
+Landing page for Jeje Dental Care
